@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db4df63f-16dc-45ad-9c56-5731b842bc3b" name="Default Changelist" comment="" />
+    <list default="true" id="db4df63f-16dc-45ad-9c56-5731b842bc3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise_2/program_1/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise_2/program_1/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise_2/program_2/PowerOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise_2/program_2/PowerOf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise_2/program_3/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise_2/program_3/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise_2/program_3/MemberVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise_2/program_3/MemberVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise_2/program_4/FileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise_2/program_4/FileReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise_2/program_5/EvenNumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise_2/program_5/EvenNumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise_2/program_6/StudentInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise_2/program_6/StudentInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise_2/program_7/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise_2/program_7/Factorial.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,15 +27,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/program_7/Factorial.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/program_2/PowerOf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/program_6/StudentInfo.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcases/program_5/EvenNumTestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+            <state relative-caret-position="90">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,55 +48,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/program_5/EvenNumTest.java">
+        <entry file="file://$PROJECT_DIR$/testcases/program_2/PowerOfTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/program_4/FileReader.java">
+        <entry file="file://$PROJECT_DIR$/testcases/program_1/PalindromeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/program_3/MemberVariable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/program_2/PowerOf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/program_1/Palindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/program_8/FolderFileReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+            <state relative-caret-position="360">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,8 +77,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -109,12 +96,15 @@
         <option value="$PROJECT_DIR$/src/program_3/MemberVariable.java" />
         <option value="$PROJECT_DIR$/src/program_2/PowerOf.java" />
         <option value="$PROJECT_DIR$/src/program_1/Palindrome.java" />
+        <option value="$PROJECT_DIR$/testcases/program_1/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/testcases/program_2/PowerOfTest.java" />
+        <option value="$PROJECT_DIR$/testcases/program_5/EvenNumTestTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="666" />
-    <option name="y" value="47" />
+    <option name="x" value="632" />
+    <option name="y" value="339" />
     <option name="width" value="901" />
     <option name="height" value="815" />
   </component>
@@ -123,7 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,17 +125,76 @@
               <item name="exercise_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="exercise_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="program_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="program_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="program_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise_2" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise_2" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+              <item name="program_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise_2" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+              <item name="program_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise_2" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+              <item name="program_5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="program_2" />
+      <recent name="program_1" />
+      <recent name="program_5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,13 +208,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Factorial">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="program_7.Factorial" />
+  <component name="RunManager" selected="JUnit.EvenNumTestTest">
+    <configuration name="PowerOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="program_2.PowerOf" />
       <module name="exercise_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="program_7.*" />
+          <option name="PATTERN" value="program_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,65 +222,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="program_4.FileReader" />
+    <configuration name="EvenNumTestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="program_4.*" />
+          <option name="PATTERN" value="program_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="program_5" />
+      <option name="MAIN_CLASS_NAME" value="program_5.EvenNumTestTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FolderFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="program_8.FolderFileReader" />
+    <configuration name="PalindromeTest.palindromTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="program_8.*" />
+          <option name="PATTERN" value="program_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="program_1" />
+      <option name="MAIN_CLASS_NAME" value="program_1.PalindromeTest" />
+      <option name="METHOD_NAME" value="palindromTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="program_3.MemberVariable" />
+    <configuration name="PowerOfTest.testPower" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="program_3.*" />
+          <option name="PATTERN" value="program_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="program_2" />
+      <option name="MAIN_CLASS_NAME" value="program_2.PowerOfTest" />
+      <option name="METHOD_NAME" value="testPower" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="program_6.StudentInfo" />
+    <configuration name="program_1 in exercise_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="program_6.*" />
+          <option name="PATTERN" value="program_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="program_1" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.FolderFileReader" />
-        <item itemvalue="Application.MemberVariable" />
-        <item itemvalue="Application.FileReader" />
-        <item itemvalue="Application.StudentInfo" />
+        <item itemvalue="JUnit.EvenNumTestTest" />
+        <item itemvalue="JUnit.PowerOfTest.testPower" />
+        <item itemvalue="Application.PowerOf" />
+        <item itemvalue="JUnit.PalindromeTest.palindromTest" />
+        <item itemvalue="JUnit.program_1 in exercise_2" />
       </list>
     </recent_temporary>
   </component>
@@ -249,11 +306,43 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PalindromeTest_palindromTest - 2019.05.14 at 10h 47m 38s.xml">
+      <configuration name="PalindromeTest.palindromTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeTest_palindromTest - 2019.05.14 at 10h 48m 19s.xml">
+      <configuration name="PalindromeTest.palindromTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeTest_palindromTest - 2019.05.14 at 10h 49m 00s.xml">
+      <configuration name="PalindromeTest.palindromTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeTest_palindromTest - 2019.05.14 at 10h 49m 49s.xml">
+      <configuration name="PalindromeTest.palindromTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PowerOfTest_testPower - 2019.05.14 at 10h 54m 26s.xml">
+      <configuration name="PowerOfTest.testPower" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PowerOfTest_testPower - 2019.05.14 at 10h 55m 01s.xml">
+      <configuration name="PowerOfTest.testPower" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PowerOfTest_testPower - 2019.05.14 at 10h 55m 19s.xml">
+      <configuration name="PowerOfTest.testPower" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PowerOfTest_testPower - 2019.05.14 at 10h 55m 59s.xml">
+      <configuration name="PowerOfTest.testPower" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EvenNumTestTest - 2019.05.14 at 10h 57m 50s.xml">
+      <configuration name="EvenNumTestTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EvenNumTestTest - 2019.05.14 at 10h 58m 26s.xml">
+      <configuration name="EvenNumTestTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2259583" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17417619" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -262,7 +351,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24436091" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24436091" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2654402" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -280,26 +369,44 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17417619" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24436091" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2654402" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298292" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/program_3/program_3.java" />
     <entry file="file://$PROJECT_DIR$/src/program_1/program_1.java" />
-    <entry file="file://$PROJECT_DIR$/src/program_8/FolderFileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/program_7/Factorial.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/program_6/StudentInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
+        <state relative-caret-position="630">
           <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -307,17 +414,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/program_5/EvenNumTest.java">
+    <entry file="file://$PROJECT_DIR$/src/program_8/FolderFileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/program_4/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -328,17 +438,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/program_2/PowerOf.java">
+    <entry file="file://$PROJECT_DIR$/src/program_5/EvenNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/program_1/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        <state relative-caret-position="60">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/program_1/PalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/program_2/PowerOfTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/program_2/PowerOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/program_5/EvenNumTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
